@@ -1,0 +1,14 @@
+{
+    "schema": [
+        {
+            "type": "obj",
+            "name": "mall",
+            "position": [0, 0, 0]
+        },
+        {
+            "type": "gltf",
+            "name": "king",
+            "position": [0, 0, 0]
+        }
+    ]
+}
